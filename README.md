@@ -1,6 +1,6 @@
 # honestyield.dev
 
-Home of the **honest-yield standard** — the public, citable place where the rule lives, the evidence ledger lives, and the lab lives.
+**No pair, no number.** Home of the honest-yield standard — the public, citable place where the rule lives, the evidence ledger lives, and the lab lives. A yield claim is a measured claim: without an admitted run pair, the savings number is null.
 
 Honest yield means one thing: **yield you can prove.** Any claim that a system saves tokens, money, or time must cite an admitted run pair — a before-and-after measurement on the same workload under stated conditions. Without an admitted run pair, the savings number is null. Negative results are valid, published ledger entries.
 
