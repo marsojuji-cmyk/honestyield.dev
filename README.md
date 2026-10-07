@@ -14,7 +14,7 @@ This repo holds the static site for the standard: the Rule, the run-pair ledger,
 The Rule is a standard for people making claims; it is not enforced by code. What the repo itself enforces in CI:
 
 - **Every internal link resolves**, and **the required files exist**. `scripts/check.py` fails the build otherwise.
-- **No placeholder copy ships.** The same check rejects "lorem ipsum".
+- **No placeholder copy ships.** The same check rejects the standard filler-text phrase anywhere in the site.
 - **The ledger is append-only by policy.** Corrections arrive as new entries, and pull requests that rewrite an entry don't meet the Rule.
 
 ## Quickstart
